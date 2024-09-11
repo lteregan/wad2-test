@@ -1,0 +1,10 @@
+/* complete CSS for the header and div border*/
+header {
+    background-color: green;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+div{
+    border: 2px solid green;
+}
